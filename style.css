@@ -1,0 +1,19 @@
+.login{
+    background-image: url("math.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+#login_btn{
+    background-color: black;
+    color: white;
+    margin-left: 20px;
+}
+.login_div{
+	background:black;
+	padding: 30px;
+	float: none;
+    border-radius: 20px;
+    display: inline-block;
+	margin-left: 20px;
+}
